@@ -16,7 +16,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravinarola) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ravinarola22) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Ravi-narola) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravinarola)
 
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi-narola&label=Profile%20views&color=0e75b6&style=flat" alt="ravi-narola" /> </p>
