@@ -2,7 +2,7 @@
 <br>
 
 - ✨ Aspiring Full-stack Developer
-- 🌱 I’m currently learning *MCA*
+- 🌱 I’m currently learning *JAVA & DSA*
 - 💬 Ask me about *Freelance Work*
 - 👨‍💻 All of my projects are available at [https://ravinarola.netlify.app/](https://ravinarola.netlify.app/)
 - 📫 How to reach me *ravinarola3334@gmail.com*
